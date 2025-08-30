@@ -76,4 +76,5 @@ For any selected movie, users can view detailed information such as:
 ---
 
 👉 Here is the trial snapshot of this project
-[!image](https://github.com/chinmaysahoo18/IMDb-Movies-Analysis/blob/4e1de75ea7bab122c86e54ff069595601da41be6/Dashboard%20Snapshot1.png)
+![image](https://github.com/chinmaysahoo18/IMDb-Movies-Analysis/blob/4e1de75ea7bab122c86e54ff069595601da41be6/Dashboard%20Snapshot1.png)
+![image]()
