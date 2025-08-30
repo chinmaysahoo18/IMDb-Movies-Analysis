@@ -19,8 +19,8 @@ This Power BI project analyzes IMDb movie data to explore **trends, ratings, gen
 * **Distribution of IMDb Ratings** – Histogram of rating distribution across all movies.
 * **KPI Cards**:
 
-  * Total Movies: **1,044**
-  * Average Rating: **7.3**
+  * Total Movies: **1,057**
+  * Average Rating: **7.4**
   * Earliest Year: **1915**
   * Latest Year: **2020**
 
@@ -76,4 +76,4 @@ For any selected movie, users can view detailed information such as:
 ---
 
 👉 Here is the trial snapshot of this project
-[!image]()
+[!image](https://github.com/chinmaysahoo18/IMDb-Movies-Analysis/blob/4e1de75ea7bab122c86e54ff069595601da41be6/Dashboard%20Snapshot1.png)
